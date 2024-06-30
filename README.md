@@ -1,3 +1,2 @@
-*pyTLBO
-Teaching-Learning Based Optimization in Python
-
+# pyTLBO
+Teaching-Learning based optimization in Python 
